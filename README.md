@@ -62,7 +62,7 @@ The app have the following functionalities
 
 ### Features 
 <details>
-<sumamry>Click to View</summary>
+<summary>Click to View</summary>
 
 - Delete Todo,
 </details>
