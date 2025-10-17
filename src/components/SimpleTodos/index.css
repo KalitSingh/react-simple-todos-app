@@ -1,0 +1,24 @@
+.simpleTodosBg-container {
+  background-color: #ffc2a0;
+  min-height: 100vh;
+  padding: 30px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.simpleTodos-card {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+  background-color: white;
+  border-radius: 12px;
+  padding: 12px;
+  width: 80%;
+  text-align: center;
+}
+.todosTitle {
+  color: #ff8542;
+  font-weight: bold;
+  padding: 12px 0;
+}
