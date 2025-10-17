@@ -63,7 +63,8 @@ The app have the following functionalities
 ### Features 
 <details>
 <sumamry>Click to View</summary>
-Delete,
+
+- Delete Todo,
 </details>
 
 <details>
@@ -98,7 +99,9 @@ Used files to for the implementation:
 <summary>Font-families</summary>
 
 - Roboto
+</details>
 
+### Live Project
 <details>
 <a href="https://reactsimptodos.ccbp.tech/">Click to View Live Project</a>
 </details>
